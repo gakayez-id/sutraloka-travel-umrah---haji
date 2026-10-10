@@ -1,0 +1,6 @@
+{
+  "name": "Sutraloka Travel Umroh & Haji",
+  "description": "Prototipe UI Mobile Travel Umroh & Haji Sutraloka dengan estetika Dark Luxury, jadwal sholat, katalog paket, kalender keberangkatan, dan tiket digital QR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
